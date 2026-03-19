@@ -1,1 +1,10 @@
-
+cff-version: 1.2.0
+title: Open AI Transformation Maturity Model
+message: "If you use this framework, please cite it."
+type: dataset
+authors:
+  - family-names: Mishra
+    given-names: Pranay
+version: 0.1.0
+license: CC-BY-SA-4.0
+date-released: 2026
