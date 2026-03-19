@@ -1,6 +1,8 @@
-# Open AI Transformation Maturity Model
+# Open AI Transformation Maturity Model (OAITMM)
 
-An open, evidence-based framework for assessing AI transformation maturity in software organizations — from AI-assisted development to autonomous software production.
+An open, community-driven framework for assessing how software organizations evolve from AI-assisted development to autonomous software production.
+
+> From copilots to dark factories.
 
 ## Why This Exists
 
