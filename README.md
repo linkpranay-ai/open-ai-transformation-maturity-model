@@ -41,6 +41,8 @@ This framework focuses on operating-model transformation:
 - Glossary and references
 - Templates for workshops and self-assessment
 - Open contribution model
+- [Getting Started Guide](docs/GETTING_STARTED.md)
+- [Project Roadmap](docs/ROADMAP.md)
 
 ## How To Use
 
