@@ -1,19 +1,56 @@
 # Open AI Transformation Maturity Model (OAITMM)
 
-An open, community-driven framework for assessing how software organizations evolve from AI-assisted development to autonomous software production.
+An open, community-driven framework for understanding how software organizations evolve from AI-assisted development to autonomous software delivery.
 
-> From copilots to dark factories.
+> From copilots to autonomous production systems.
+
+---
+
+## 🚀 Start Here
+
+### ⭐ Core Model
+➡️ **[5-Level AI Transformation Maturity Model](docs/model/5-level-maturity-model.md)**  
+Conceptual framework describing the evolution from assistive AI to autonomous delivery.
+
+---
+
+### ⭐ Assessment Framework
+➡️ **[Organizational Assessment System](docs/model/assessment/README.md)**  
+Structured method for evaluating maturity using pillars, levels, and stage gates.
+
+Includes:
+
+- Unified scoring methodology  
+- Seven capability pillars  
+- Safety gates for progression  
+- Observable level checklists  
+- Worked examples  
+
+---
+
+### ⭐ Detailed Level Descriptions
+➡️ [Level-by-Level Deep Dive](docs/model/levels/)  
+Comprehensive descriptions of each maturity stage.
+
+---
 
 ## Why This Exists
 
-Most AI maturity models are tool-centric, vendor-shaped, or too vague for real engineering decisions.
+Most AI maturity models are:
 
-This framework focuses on operating-model transformation:
+- Tool-centric  
+- Vendor-shaped  
+- Too abstract for engineering decisions  
+- Focused on adoption rather than transformation  
 
-- From human-centric development to machine-executed production
-- From code as artifact to intent as artifact
-- From implementation bottlenecks to evaluation bottlenecks
-- From coordination to constraint design
+This framework focuses on operating-model change:
+
+- From human-centric development to machine-executed production  
+- From code as artifact to intent as artifact  
+- From implementation bottlenecks to evaluation bottlenecks  
+- From coordination to constraint design  
+
+---
 
 ## The Five Levels
 
@@ -21,83 +58,49 @@ This framework focuses on operating-model transformation:
 2. **Augmented Coding** — AI as junior contributor  
 3. **Managed Agents** — Developer as orchestrator  
 4. **Spec-Driven Development** — Intent as control plane  
-5. **Autonomous Delivery (Dark Factory)** — Software production without human coding  
-
-## Who This Is For
-
-- CTOs and VPs of Engineering
-- Platform and productivity leaders
-- Transformation teams
-- Researchers and analysts
-- Consultants and practitioners
-- Organizations building AI-native SDLCs
-
-## What’s Included
-
-- Formal maturity model
-- Detailed assessment framework
-- Scoring methodology
-- Case studies mapped to levels
-- Glossary and references
-- Templates for workshops and self-assessment
-- Open contribution model
-- [Getting Started Guide](docs/GETTING_STARTED.md)
-- [Project Roadmap](docs/ROADMAP.md)
-
-## How To Use
-
-- Conduct organizational self-assessments
-- Facilitate leadership workshops
-- Plan transformation roadmaps
-- Benchmark against industry examples
-- Extend for domain-specific use cases
-
-## Licensing
-
-Unless otherwise noted:
-
-- Documentation, framework text, diagrams, and assessment content are licensed under  
-  **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
-
-- Code, schemas, scripts, and tooling are licensed under  
-  **Apache License 2.0**
-
-See `LICENSE` and `LICENSE-CODE` for details.
-
-## Contributing
-
-We welcome contributions from the community.
-
-Examples of valuable contributions:
-
-- New public case studies
-- Improved assessment questions
-- Domain-specific adaptations
-- Diagrams and visualizations
-- Tooling and automation
-- Corrections and clarifications
-
-Please read `CONTRIBUTING.md` before submitting.
-
-## Governance
-
-This project is maintained by the community with guidance from core maintainers.
-
-See `GOVERNANCE.md` for details.
-
-## Citation
-
-If you use this framework in research, consulting, or publications, please cite it.
-
-See `CITATION.cff`.
-
-## Status
-
-Active — early public release (v0.x)
-
-Expect evolution as new evidence emerges.
+5. **Autonomous Delivery** — Software production with minimal human coding  
 
 ---
 
-> Software engineering is being industrialized.  
-> This framework exists to help organizations navigate that transition safely and effectively.
+## Who This Is For
+
+- CTOs and VPs of Engineering  
+- Platform and productivity leaders  
+- Transformation teams  
+- Researchers and analysts  
+- Consultants and practitioners  
+- Organizations building AI-native SDLCs  
+
+---
+
+## What’s Included
+
+- Formal maturity model  
+- Detailed assessment framework  
+- Scoring methodology  
+- Case studies mapped to levels  
+- Glossary and references  
+- Templates for workshops and self-assessment  
+- Open contribution model  
+
+Additional resources:
+
+- 👉 [Getting Started Guide](docs/GETTING_STARTED.md)  
+- 👉 [Project Roadmap](docs/ROADMAP.md)  
+
+---
+
+## How To Use
+
+Typical use cases:
+
+- Organizational self-assessment  
+- Leadership workshops  
+- Transformation planning  
+- Benchmarking against industry patterns  
+- Domain-specific adaptation  
+- Research and analysis  
+
+---
+
+## Project Structure Overview
