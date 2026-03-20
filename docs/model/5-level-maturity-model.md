@@ -17,6 +17,8 @@ See detailed description:
 
 ### Level 2 — Augmented Coding
 AI becomes a normal part of the toolbox. Teams use it for repetitive tasks — tests, boilerplate, small refactors, docs nobody really wanted to write. It saves time, but people still double-check things because the output can be surprisingly wrong in subtle ways.
+See detailed description:  
+👉 [Level 2 — Augmented Coding](levels/level-2-augmented-coding.md)
 
 ### Level 3 — Managed Agents
 At this point, AI can handle larger chunks of work. You might ask it to implement a feature or fix a bug and get something that’s actually usable. Engineers shift from typing code to reviewing, tweaking, and sometimes undoing things that looked correct at first glance.
