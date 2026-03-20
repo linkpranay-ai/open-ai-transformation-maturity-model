@@ -1,4 +1,8 @@
 # Level 1 — AI Initiated  
+
+> **License:** CC BY-SA 4.0  
+> https://creativecommons.org/licenses/by-sa/4.0/
+
 ## Tool Adoption Without Structural Change
 
 This is basically the “we gave everyone copilots” phase.
