@@ -9,6 +9,12 @@ This framework provides a structured method for assessing an organization’s AI
 - Safety & Readiness (Stage Gates)
 - Operating Mode (Levels)
 
+<p align="center">
+  <img src="../../diagrams/assets/assessment-system-architecture.png"
+       alt="OAITMM Assessment System Architecture"
+       width="900">
+</p>
+
 👉 [Back to Main Maturity Model](../5-level-maturity-model.md)
 
 ---
