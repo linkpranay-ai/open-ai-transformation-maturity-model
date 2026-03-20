@@ -7,6 +7,11 @@ An open, community-driven framework for understanding how software organizations
 ---
 
 ## 🚀 Start Here
+<p align="center">
+  <img src="docs/diagrams/assets/5-level-maturity-model.png" 
+       alt="AI Transformation Maturity Model — 5 Levels"
+       width="900">
+</p>
 
 ### ⭐ Core Model
 ➡️ **[5-Level AI Transformation Maturity Model](docs/model/5-level-maturity-model.md)**  
