@@ -22,6 +22,8 @@ See detailed description:
 
 ### Level 3 — Managed Agents
 At this point, AI can handle larger chunks of work. You might ask it to implement a feature or fix a bug and get something that’s actually usable. Engineers shift from typing code to reviewing, tweaking, and sometimes undoing things that looked correct at first glance.
+See detailed description:  
+👉 [Level 3 — Managed Agents](levels/level-3-managed-agents.md)
 
 ### Level 4 — Spec-Driven Development
 The bottleneck moves upstream. Clear requirements suddenly matter a lot more, because vague instructions produce vague results. Teams spend more time describing what success looks like and less time deciding how to implement it step by step.
