@@ -23,11 +23,18 @@ This section contains visual representations of the Open AI Transformation Matur
 
 ## 2. Assessment System Architecture
 
-This diagram will show how the framework combines:
+<p align="center">
+  <img src="assessment-system-architecture.png"
+       alt="Assessment System Architecture"
+       width="900">
+</p>
 
-- Capability Pillars
-- Maturity Levels
-- Stage Gates
-- Unified Scoring Logic
+**Source file:**
+- [Editable Mermaid source](assessment-system-architecture.md)
 
-_Status: to be added_
+This diagram shows how the framework integrates:
+
+- Capability Pillars (what the organization can do)
+- Maturity Levels (how work is performed)
+- Stage Gates (safety and readiness constraints)
+- Unified Scoring Logic (final maturity determination)
