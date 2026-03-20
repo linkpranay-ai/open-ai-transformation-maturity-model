@@ -104,6 +104,10 @@ Typical use cases:
 ---
 
 ## Project Structure Overview
+
+Key documentation components are organized as follows:
+
+```text
 docs/
 ├── GETTING_STARTED.md
 ├── ROADMAP.md
@@ -119,7 +123,7 @@ docs/
     │   ├── level-2-augmented-coding.md
     │   ├── level-3-managed-agents.md
     │   ├── level-4-spec-driven-development.md
-    │   └── level-5-autonomous-delivery.md
+    │   └── level-5-dark-factory.md
     └── assessment/
         ├── README.md
         ├── scoring-model.md
@@ -127,7 +131,6 @@ docs/
         ├── pillars/
         ├── gates/
         └── levels/
-
 ---
 
 ## Licensing
