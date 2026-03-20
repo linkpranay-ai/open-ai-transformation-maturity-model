@@ -3,6 +3,12 @@
 > **License:** CC BY-SA 4.0  
 > https://creativecommons.org/licenses/by-sa/4.0/
 
+<p align="center">
+  <img src="../diagrams/assets/5-level-maturity-model.png"
+       alt="AI Transformation Maturity Model — 5 Levels"
+       width="900">
+</p>
+
 ## Overview
 
 In reality, most teams don’t “transform” overnight. AI usually sneaks in through side doors — a developer tries a tool, someone shares a prompt in Slack, a manager hears about productivity gains and asks everyone to give it a shot. Over time, these small changes start to add up.
