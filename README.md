@@ -1,69 +1,71 @@
 # Open AI Transformation Maturity Model (OAITMM)
 
-An open, community-driven framework for understanding how software organizations evolve from AI-assisted development to autonomous software delivery.
+An open, evidence-based framework for assessing how software organizations evolve from AI-assisted development to autonomous software production.
 
-> From copilots to autonomous production systems.
+> From copilots to autonomous delivery.
 
 ---
 
-## 🚀 Start Here
+## The Five-Level Model
+
 <p align="center">
-  <img src="docs/diagrams/assets/5-level-maturity-model.png" 
-       alt="AI Transformation Maturity Model — 5 Levels"
+  <img src="docs/diagrams/assets/5-level-maturity-model.png"
+       alt="OAITMM Five-Level Maturity Model"
        width="900">
 </p>
 
-### ⭐ Core Model
-➡️ **[5-Level AI Transformation Maturity Model](docs/model/5-level-maturity-model.md)**  
-Conceptual framework describing the evolution from assistive AI to autonomous delivery.
-
----
-
-### ⭐ Assessment Framework
-➡️ **[Organizational Assessment System](docs/model/assessment/README.md)**  
-Structured method for evaluating maturity using pillars, levels, and stage gates.
-
-Includes:
-
-- Unified scoring methodology  
-- Seven capability pillars  
-- Safety gates for progression  
-- Observable level checklists  
-- Worked examples  
-
----
-
-### ⭐ Detailed Level Descriptions
-➡️ [Level-by-Level Deep Dive](docs/model/levels/)  
-Comprehensive descriptions of each maturity stage.
-
----
-
-## Why This Exists
-
-Most AI maturity models are:
-
-- Tool-centric  
-- Vendor-shaped  
-- Too abstract for engineering decisions  
-- Focused on adoption rather than transformation  
-
-This framework focuses on operating-model change:
+This model describes how engineering organizations transition:
 
 - From human-centric development to machine-executed production  
-- From code as artifact to intent as artifact  
+- From code as the primary artifact to intent as the primary artifact  
 - From implementation bottlenecks to evaluation bottlenecks  
-- From coordination to constraint design  
+- From coordination overhead to constraint design  
 
----
-
-## The Five Levels
+### Levels
 
 1. **AI Initiated** — Assistive tools, no structural change  
 2. **Augmented Coding** — AI as junior contributor  
 3. **Managed Agents** — Developer as orchestrator  
 4. **Spec-Driven Development** — Intent as control plane  
-5. **Autonomous Delivery** — Software production with minimal human coding  
+5. **Autonomous Delivery** — Software production without human coding  
+
+📖 Full model:
+
+👉 **[5-Level Maturity Model](docs/model/5-level-maturity-model.md)**
+
+---
+
+## Assessment System Architecture
+
+<p align="center">
+  <img src="docs/diagrams/assets/assessment-system-architecture.png"
+       alt="OAITMM Assessment Architecture"
+       width="900">
+</p>
+
+The assessment framework integrates three dimensions:
+
+- **Capability Pillars** — What the organization can do  
+- **Maturity Levels** — How work is performed  
+- **Stage Gates** — Safety and readiness constraints  
+
+These feed a unified scoring engine that determines effective maturity and recommended next moves.
+
+📊 Full assessment framework:
+
+👉 **[Assessment Hub](docs/model/assessment/README.md)**
+
+---
+
+## Why This Framework Exists
+
+Most AI maturity models are:
+
+- Tool-centric
+- Vendor-shaped
+- Strategy-level but operationally vague
+
+OAITMM focuses on **operating-model transformation**, not tool adoption.
 
 ---
 
@@ -82,59 +84,33 @@ This framework focuses on operating-model change:
 
 - Formal maturity model  
 - Detailed assessment framework  
-- Scoring methodology  
+- Unified scoring methodology  
+- Stage gates and readiness checks  
+- Simulated assessment examples  
 - Case studies mapped to levels  
-- Glossary and references  
+- Glossary and terminology  
 - Templates for workshops and self-assessment  
 - Open contribution model  
 
-Additional resources:
+📘 Supporting docs:
 
 - 👉 [Getting Started Guide](docs/GETTING_STARTED.md)  
 - 👉 [Project Roadmap](docs/ROADMAP.md)  
+- 👉 [Diagrams Index](docs/diagrams/README.md)
 
 ---
 
 ## How To Use
 
-Typical use cases:
+You can apply this framework to:
 
-- Organizational self-assessment  
-- Leadership workshops  
-- Transformation planning  
-- Benchmarking against industry patterns  
-- Domain-specific adaptation  
-- Research and analysis  
+- Conduct organizational self-assessments  
+- Facilitate leadership workshops  
+- Plan transformation roadmaps  
+- Benchmark against industry patterns  
+- Guide platform and governance design  
+- Extend for domain-specific use cases  
 
----
-
-## Project Structure Overview
-
-Key documentation components are organized as follows:
-
-```text
-docs/
-├── GETTING_STARTED.md
-├── ROADMAP.md
-├── case-studies/
-├── diagrams/
-└── model/
-    ├── 5-level-maturity-model.md
-    ├── glossary.md
-    ├── levels/
-    │   ├── level-1-ai-initiated.md
-    │   ├── level-2-augmented-coding.md
-    │   ├── level-3-managed-agents.md
-    │   ├── level-4-spec-driven-development.md
-    │   └── level-5-dark-factory.md
-    └── assessment/
-        ├── README.md
-        ├── scoring-model.md
-        ├── simulated-examples.md
-        ├── pillars/
-        ├── gates/
-        └── levels/
-```
 ---
 
 ## Licensing
@@ -143,62 +119,62 @@ Unless otherwise noted:
 
 **Documentation, framework text, diagrams, and assessment content**
 
-➡️ Creative Commons Attribution-ShareAlike 4.0  
-(CC BY-SA 4.0)
+→ Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
 **Code, schemas, scripts, and tooling**
 
-➡️ Apache License 2.0
+→ Apache License 2.0  
 
-See:
-
-- `LICENSE`
-- `LICENSE-CODE`
+See `LICENSE` and `LICENSE-CODE` for details.
 
 ---
 
 ## Contributing
 
-Community contributions are welcome.
+We welcome contributions from the community.
 
 Examples of valuable contributions:
 
-- Public case studies mapped to levels  
-- Improvements to assessment criteria  
+- New public case studies  
+- Improved assessment questions  
 - Domain-specific adaptations  
-- Visualizations and diagrams  
+- Diagrams and visualizations  
 - Tooling and automation  
 - Corrections and clarifications  
 
 Please read:
 
-➡️ `CONTRIBUTING.md`
+👉 `CONTRIBUTING.md`
 
 ---
 
 ## Governance
 
-Maintained by the community with guidance from core maintainers.
+This project is maintained by the community with guidance from core maintainers.
 
-➡️ See `GOVERNANCE.md`
+See:
+
+👉 `GOVERNANCE.md`
 
 ---
 
 ## Citation
 
-If you use this framework in research, consulting, or publications:
+If you use this framework in research, consulting, or publications, please cite it.
 
-➡️ See `CITATION.cff`
+See:
+
+👉 `CITATION.cff`
 
 ---
 
 ## Status
 
-Active — early public release (v0.x)
+**Active — early public release (v0.x)**
 
-The framework will evolve as new evidence, practices, and technologies emerge.
+Expect evolution as new evidence and real-world experience accumulate.
 
 ---
 
 > Software engineering is being industrialized.  
-> This project exists to help organizations navigate that transition safely and deliberately.
+> This framework exists to help organizations navigate that transition safely and effectively.
