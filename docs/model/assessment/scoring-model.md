@@ -1,17 +1,39 @@
-# Scoring Model
+# Unified Scoring System
 
 > **License:** CC BY-SA 4.0  
 > https://creativecommons.org/licenses/by-sa/4.0/
 
-This scoring model defines how organizational AI transformation maturity is assessed across capability pillars and mapped to the 5-level maturity model.
+This document defines how organizational AI transformation maturity is determined using three interrelated components:
+
+- Capability Pillars
+- Maturity Levels
+- Stage Gates
 
 👉 [Back to Assessment Framework](README.md)
 
 ---
 
-## Scoring Scale
+## Conceptual Overview
 
-Each assessment item is scored on a five-point scale:
+AI transformation maturity cannot be represented by a single metric.
+
+Instead, maturity reflects the interaction of:
+
+1. **Capability** — what the organization is able to do  
+2. **Operating Mode** — how work is actually performed  
+3. **Safety Constraints** — what can be done responsibly  
+
+These correspond to:
+
+- Pillars → Capability maturity  
+- Levels → Dominant operating mode  
+- Gates → Safety and readiness constraints  
+
+---
+
+## Capability Pillars (0–4 Scale)
+
+Each pillar is scored on a five-point scale:
 
 | Score | Meaning |
 |--------|---------|
@@ -21,80 +43,101 @@ Each assessment item is scored on a five-point scale:
 | 3 | Defined and institutionalized |
 | 4 | Optimized / continuously improving |
 
-Scores should reflect observable behavior, artifacts, and operating practices — not intentions or isolated successes.
+Scores should reflect observable practices and artifacts, not intentions.
+
+Pillar scores indicate how prepared the organization is to support higher autonomy.
 
 ---
 
-## Pillar Scoring
+## Maturity Levels
 
-Within each capability pillar:
+Levels describe the dominant mode of software development:
 
-1. Individual criteria are scored 0–4  
-2. Scores are averaged to produce a pillar score  
-3. Pillar scores represent maturity in that dimension  
+1. AI Initiated  
+2. Augmented Coding  
+3. Managed Agents  
+4. Spec-Driven Development  
+5. Dark Factory  
 
-Pillars are designed to capture independent but interdependent capabilities required for safe AI-native engineering.
+Levels are determined by how work actually flows from intent to deployed outcomes.
+
+Organizations often operate across multiple levels simultaneously.
 
 ---
 
-## Overall Maturity Determination
+## Stage Gates
 
-Overall maturity is not simply the arithmetic average of pillar scores.
+Stage gates represent hard constraints that must be satisfied before safely operating at higher levels.
 
-Instead, maturity reflects:
+Typical gate conditions include:
 
-- The dominant operating mode of development  
-- Satisfaction of required stage gates  
-- Risk posture and evaluation capability  
-- Consistency across critical workflows  
+- Adequate evaluation capability  
+- Governance and risk controls  
+- Domain suitability for autonomy  
+- Auditability and rollback mechanisms  
 
-Organizations cannot safely operate at higher autonomy levels if foundational capabilities remain weak.
+Gates prevent unsafe progression driven by enthusiasm rather than readiness.
+
+---
+
+## Determining Organizational Maturity
+
+Overall maturity is determined by the **minimum** of three factors:
+
+### 1. Observed Operating Level
+
+The level that best describes how most new work is delivered.
+
+### 2. Capability Support (Pillars)
+
+Whether pillar scores indicate sufficient capability to sustain that level.
+
+Severe weaknesses in critical pillars may downgrade effective maturity.
+
+### 3. Stage-Gate Eligibility
+
+Failure to meet required gates blocks advancement regardless of other factors.
 
 ---
 
 ## Partial and Uneven Maturity
 
-Most organizations exhibit mixed maturity across systems.
+Most organizations exhibit mixed maturity:
 
-Examples:
+- Legacy systems at lower levels  
+- New initiatives at higher levels  
+- Tooling ahead of governance  
+- Autonomy exceeding evaluation capability  
 
-- Legacy platforms at Level 2  
-- New services at Level 4  
-- Internal tools approaching Level 5  
-
-Assessments should identify:
-
-- Dominant organizational mode  
-- High-risk mismatches  
-- Areas where autonomy exceeds governance  
+Assessments should identify both the dominant level and high-risk mismatches.
 
 ---
 
 ## Interpretation Guidelines
 
-High scores in isolated pillars do not imply overall readiness.
+High scores in isolated pillars do not imply readiness for higher autonomy.
 
-Common imbalances include:
+Common imbalance patterns include:
 
-- Strong generation capability but weak evaluation  
-- Mature specifications but fragile delivery systems  
-- High autonomy without adequate governance  
-- Advanced tooling with limited organizational adaptation  
+- Strong generation capability with weak evaluation  
+- Advanced specifications without delivery robustness  
+- Autonomous agents without governance controls  
+- Mature tooling with unchanged organizational structure  
 
 Balanced capability development is required for sustainable transformation.
 
 ---
 
-## Use in Workshops
+## Use in Assessments
 
-The scoring model is designed for facilitated assessments involving:
+This system is designed for facilitated organizational evaluation involving:
 
 - Engineering leadership  
 - Platform teams  
 - Product and architecture stakeholders  
 - Risk and governance functions  
 
-Structured discussion is as important as numerical scoring.
+Structured discussion is essential for interpreting results correctly.
 
 ---
 
@@ -106,4 +149,4 @@ This framework:
 - Does not rank organizations competitively  
 - Emphasizes safe autonomy over maximum automation  
 
-Results should guide transformation planning, not certification.
+It is intended as a decision-support tool for transformation planning.
