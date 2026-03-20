@@ -11,15 +11,17 @@ This scoring model defines how organizational AI transformation maturity is asse
 
 ## Scoring Scale
 
-Each assessment item is scored on a three-point scale:
+Each assessment item is scored on a five-point scale:
 
 | Score | Meaning |
 |--------|---------|
-| 0 | Not present or ad hoc |
-| 1 | Emerging or pilot-level capability |
-| 2 | Consistent, institutionalized capability |
+| 0 | Not present / no evidence |
+| 1 | Ad hoc / experimental |
+| 2 | Repeatable but inconsistent |
+| 3 | Defined and institutionalized |
+| 4 | Optimized / continuously improving |
 
-Scores reflect observable organizational behavior rather than stated intent.
+Scores should reflect observable behavior, artifacts, and operating practices — not intentions or isolated successes.
 
 ---
 
@@ -27,54 +29,59 @@ Scores reflect observable organizational behavior rather than stated intent.
 
 Within each capability pillar:
 
-1. Individual criteria are scored 0–2  
+1. Individual criteria are scored 0–4  
 2. Scores are averaged to produce a pillar score  
-3. Pillar scores represent capability strength in that dimension  
+3. Pillar scores represent maturity in that dimension  
 
-Pillars are designed to be independent but interrelated.
+Pillars are designed to capture independent but interdependent capabilities required for safe AI-native engineering.
 
 ---
 
 ## Overall Maturity Determination
 
-Overall maturity is not simply the arithmetic average of all pillars.
+Overall maturity is not simply the arithmetic average of pillar scores.
 
-Instead, maturity is determined by:
+Instead, maturity reflects:
 
-- Dominant operating mode of development  
-- Presence or absence of required capabilities  
-- Stage-gate constraints  
-- Risk exposure  
+- The dominant operating mode of development  
+- Satisfaction of required stage gates  
+- Risk posture and evaluation capability  
+- Consistency across critical workflows  
 
-An organization cannot safely operate at higher maturity levels if foundational capabilities are missing.
+Organizations cannot safely operate at higher autonomy levels if foundational capabilities remain weak.
 
 ---
 
-## Partial Maturity
+## Partial and Uneven Maturity
 
-Organizations often operate at different levels across subsystems.
+Most organizations exhibit mixed maturity across systems.
 
 Examples:
 
-- Legacy core systems at Level 2  
+- Legacy platforms at Level 2  
 - New services at Level 4  
-- Internal tooling at Level 5  
+- Internal tools approaching Level 5  
 
-Assessments should identify the **dominant mode** or evaluate subsystems separately.
+Assessments should identify:
+
+- Dominant organizational mode  
+- High-risk mismatches  
+- Areas where autonomy exceeds governance  
 
 ---
 
 ## Interpretation Guidelines
 
-High scores in isolated pillars do not guarantee overall maturity.
+High scores in isolated pillars do not imply overall readiness.
 
-Common situations include:
+Common imbalances include:
 
-- Strong tooling but weak governance  
-- High autonomy but inadequate evaluation  
+- Strong generation capability but weak evaluation  
 - Mature specifications but fragile delivery systems  
+- High autonomy without adequate governance  
+- Advanced tooling with limited organizational adaptation  
 
-Balanced capability development is required for safe progression.
+Balanced capability development is required for sustainable transformation.
 
 ---
 
@@ -83,11 +90,11 @@ Balanced capability development is required for safe progression.
 The scoring model is designed for facilitated assessments involving:
 
 - Engineering leadership  
-- Platform and infrastructure teams  
+- Platform teams  
 - Product and architecture stakeholders  
-- Governance and risk functions  
+- Risk and governance functions  
 
-Structured discussion often reveals constraints more effectively than numerical scoring alone.
+Structured discussion is as important as numerical scoring.
 
 ---
 
@@ -96,7 +103,7 @@ Structured discussion often reveals constraints more effectively than numerical 
 This framework:
 
 - Does not produce a single “AI readiness score”  
-- Does not compare organizations directly  
+- Does not rank organizations competitively  
 - Emphasizes safe autonomy over maximum automation  
 
-Results should be interpreted as guidance for transformation planning, not certification.
+Results should guide transformation planning, not certification.
