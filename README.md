@@ -116,8 +116,6 @@ docs/
 └── model/
     ├── 5-level-maturity-model.md
     ├── glossary.md
-    ├── maturity-assessment-framework.md
-    ├── scoring-guide.md
     ├── levels/
     │   ├── level-1-ai-initiated.md
     │   ├── level-2-augmented-coding.md
