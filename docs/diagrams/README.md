@@ -23,9 +23,9 @@ This section contains visual representations of the Open AI Transformation Matur
 
 ## 2. Assessment System Architecture
 
-<p align="center">
-  <img src="assessment-system-architecture.png"
-       alt="Assessment System Architecture"
+<<p align="center">
+  <img src="assets/assessment-system-architecture.png"
+       alt="OAITMM Assessment System Architecture"
        width="900">
 </p>
 
