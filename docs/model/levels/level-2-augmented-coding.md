@@ -1,9 +1,13 @@
-# Level 2 — Augmented Coding  
+# Level 2 — Augmented Coding
+
+> **License:** CC BY-SA 4.0  
+> https://creativecommons.org/licenses/by-sa/4.0/
+
 ## AI as a Junior Contributor
 
 At this level, AI systems perform bounded implementation tasks that may span multiple files, such as test generation, refactoring, scaffolding, and documentation.
 
-Developers still control task decomposition, architectural decisions, and acceptance. Work remains largely ticket-driven, and AI output is reviewed line-by-line before integration.
+Developers still control task decomposition, architectural decisions, and acceptance. Work remains largely ticket-driven, and AI output is reviewed line by line before integration.
 
 AI begins to function as a junior contributor rather than a mere assistant.
 
@@ -50,9 +54,9 @@ Organizations experience a surge in pull requests and development activity witho
 Symptoms include:
 
 - Large increases in code volume and commit frequency
-- Review queues growing faster than they can be processed
+- Review queues are growing faster than they can be processed
 - Integration friction rising
-- Cycle time remaining largely unchanged
+- Cycle time remains largely unchanged
 - Leadership perceiving high productivity despite stagnant outcomes
 
 ---
