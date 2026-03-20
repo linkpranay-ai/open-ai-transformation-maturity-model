@@ -131,6 +131,7 @@ docs/
         ├── pillars/
         ├── gates/
         └── levels/
+```
 ---
 
 ## Licensing
