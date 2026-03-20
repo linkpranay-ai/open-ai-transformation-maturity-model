@@ -33,6 +33,8 @@ See detailed description:
 
 ### Level 5 — Autonomous Delivery (Dark Factory)
 In narrow, well-understood domains, the pipeline can run mostly on its own. Changes move from request to deployment with minimal hands-on coding. Humans still set priorities and watch for problems, but they aren’t involved in every commit anymore.
+See detailed description:  
+👉 [Level 5 — Dark Factory](levels/level-5-dark-factory.md)
 
 ## Core Idea
 
