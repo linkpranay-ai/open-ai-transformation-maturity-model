@@ -12,6 +12,8 @@ This model is just an attempt to put some structure around that messy journey. I
 
 ### Level 1 — AI Initiated
 AI tools exist, but usage is ad-hoc. Some engineers swear by them, others don’t trust them at all. Official processes don’t change, deadlines don’t move, and most coordination work stays exactly the same. If productivity improves, it’s uneven and hard to attribute.
+See detailed description:  
+👉 [Level 1 — AI Initiated](model/levels/level-1-ai-initiated.md)
 
 ### Level 2 — Augmented Coding
 AI becomes a normal part of the toolbox. Teams use it for repetitive tasks — tests, boilerplate, small refactors, docs nobody really wanted to write. It saves time, but people still double-check things because the output can be surprisingly wrong in subtle ways.
