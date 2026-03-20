@@ -53,4 +53,20 @@ Teams might use this model to:
 - align leadership on what “progress” actually means  
 - plan next steps without magical thinking  
 - compare maturity across groups  
-- have more grounded conversations about AI adoption  
+- have more grounded conversations about AI adoption
+
+    ---
+
+## Assessment Framework
+
+A structured assessment system is available to evaluate organizational maturity using capability pillars, operating patterns, and readiness gates.
+
+➡️ **[AI Transformation Maturity — Assessment Framework](assessment/README.md)**
+
+The assessment framework includes:
+
+- Unified scoring methodology
+- Seven capability pillars
+- Stage gates for safe progression
+- Observable level checklists
+- Worked examples for interpretation
