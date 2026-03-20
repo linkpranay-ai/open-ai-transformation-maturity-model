@@ -1,6 +1,7 @@
 # Glossary
 
-> License: CC BY-SA 4.0
+> **License:** CC BY-SA 4.0  
+> https://creativecommons.org/licenses/by-sa/4.0/
 
 ## AI Initiated
 The very early phase where teams start using AI tools as helpers — things like code suggestions or quick explanations — but the overall development process stays basically the same.
