@@ -1,4 +1,8 @@
-# Level 3 — Managed Agents  
+# Level 3 — Managed Agents
+
+> **License:** CC BY-SA 4.0  
+> https://creativecommons.org/licenses/by-sa/4.0/
+
 ## Developer as Orchestrator
 
 This is where AI stops feeling like a helper and starts acting more like a teammate that occasionally needs supervision.
@@ -14,9 +18,9 @@ For a lot of orgs, this is the first stage where the development process actuall
 - Agents taking on full tasks instead of tiny edits  
 - PRs showing up that nobody directly typed  
 - Reviews focused on “does this work?” rather than “how was this written?”  
-- Much more parallel activity happening at once  
+- Much more parallel activity is happening at once  
 - CI/CD pipelines getting noticeably busier  
-- Supplying the right context to agents becoming a constant struggle  
+- Supplying the right context to agents is becoming a constant struggle  
 
 ---
 
@@ -27,8 +31,8 @@ What tends to happen around this point:
 - Some kind of planner/executor pattern emerging  
 - Teams tracking how often humans have to intervene  
 - Parts of the system labeled as safe (or unsafe) for automation  
-- Rules being written about what agents are allowed to touch  
-- Governance discussions getting less theoretical and more urgent  
+- Rules are being written about what agents are allowed to touch  
+- Governance discussions are getting less theoretical and more urgent  
 
 ---
 
