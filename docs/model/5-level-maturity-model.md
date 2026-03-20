@@ -28,6 +28,8 @@ See detailed description:
 
 ### Level 4 — Spec-Driven Development
 The bottleneck moves upstream. Clear requirements suddenly matter a lot more, because vague instructions produce vague results. Teams spend more time describing what success looks like and less time deciding how to implement it step by step.
+See detailed description:  
+👉 [Level 4 — Spec-Driven Development](levels/level-4-spec-driven-development.md)
 
 ### Level 5 — Autonomous Delivery (Dark Factory)
 In narrow, well-understood domains, the pipeline can run mostly on its own. Changes move from request to deployment with minimal hands-on coding. Humans still set priorities and watch for problems, but they aren’t involved in every commit anymore.
