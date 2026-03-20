@@ -57,7 +57,7 @@ Levels describe the dominant mode of software development:
 2. Augmented Coding  
 3. Managed Agents  
 4. Spec-Driven Development  
-5. Dark Factory  
+5. Autonomous Delivery  
 
 Levels are determined by how work actually flows from intent to deployed outcomes.
 
