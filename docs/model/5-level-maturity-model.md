@@ -1,6 +1,7 @@
 # 5-Level AI Transformation Maturity Model
 
-> License: CC BY-SA 4.0
+> **License:** CC BY-SA 4.0  
+> https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Overview
 
