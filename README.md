@@ -104,3 +104,94 @@ Typical use cases:
 ---
 
 ## Project Structure Overview
+docs/
+├── GETTING_STARTED.md
+├── ROADMAP.md
+├── case-studies/
+├── diagrams/
+└── model/
+    ├── 5-level-maturity-model.md
+    ├── glossary.md
+    ├── maturity-assessment-framework.md
+    ├── scoring-guide.md
+    ├── levels/
+    │   ├── level-1-ai-initiated.md
+    │   ├── level-2-augmented-coding.md
+    │   ├── level-3-managed-agents.md
+    │   ├── level-4-spec-driven-development.md
+    │   └── level-5-autonomous-delivery.md
+    └── assessment/
+        ├── README.md
+        ├── scoring-model.md
+        ├── simulated-examples.md
+        ├── pillars/
+        ├── gates/
+        └── levels/
+
+---
+
+## Licensing
+
+Unless otherwise noted:
+
+**Documentation, framework text, diagrams, and assessment content**
+
+➡️ Creative Commons Attribution-ShareAlike 4.0  
+(CC BY-SA 4.0)
+
+**Code, schemas, scripts, and tooling**
+
+➡️ Apache License 2.0
+
+See:
+
+- `LICENSE`
+- `LICENSE-CODE`
+
+---
+
+## Contributing
+
+Community contributions are welcome.
+
+Examples of valuable contributions:
+
+- Public case studies mapped to levels  
+- Improvements to assessment criteria  
+- Domain-specific adaptations  
+- Visualizations and diagrams  
+- Tooling and automation  
+- Corrections and clarifications  
+
+Please read:
+
+➡️ `CONTRIBUTING.md`
+
+---
+
+## Governance
+
+Maintained by the community with guidance from core maintainers.
+
+➡️ See `GOVERNANCE.md`
+
+---
+
+## Citation
+
+If you use this framework in research, consulting, or publications:
+
+➡️ See `CITATION.cff`
+
+---
+
+## Status
+
+Active — early public release (v0.x)
+
+The framework will evolve as new evidence, practices, and technologies emerge.
+
+---
+
+> Software engineering is being industrialized.  
+> This project exists to help organizations navigate that transition safely and deliberately.
