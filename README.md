@@ -24,6 +24,11 @@ This model describes how engineering organizations transition:
 - From code as the primary artifact to intent as the primary artifact  
 - From implementation bottlenecks to evaluation bottlenecks  
 - From coordination overhead to constraint design  
+<p align="center">
+  <img src="docs/diagrams/assets/oaitmm-code-to-intent-shift.png"
+       alt="Toward AI-Native Software Delivery: The Shift from Code to Intent"
+       width="90%">
+</p>
 
 ### Levels
 
