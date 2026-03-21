@@ -175,6 +175,6 @@ Active — early public release (v0.x)
 Expect evolution as new evidence and real-world experience accumulate.
 
 ---
-
+<!-- Site refresh -->
 > Software engineering is being industrialized.  
 > This framework exists to help organizations navigate that transition safely and effectively.
