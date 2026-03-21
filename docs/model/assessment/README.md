@@ -42,6 +42,12 @@ Defines how pillars, levels, and gates combine into a single assessment outcome.
 
 ## Capability Pillars
 
+<p align="center">
+  <img src="docs/diagrams/assets/oaitmm-capability-pillars.png"
+       alt="OAITMM Capability Pillars Architecture"
+       width="90%">
+</p>
+
 Evaluate readiness across seven critical dimensions.
 
 1. [Intent & Specification Fidelity](pillars/pillar-1-intent-and-specification-fidelity.md)  
