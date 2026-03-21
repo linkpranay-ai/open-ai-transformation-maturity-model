@@ -43,7 +43,11 @@ See detailed description:
 👉 [Level 5 — Dark Factory](levels/level-5-dark-factory.md)
 
 ## Core Idea
-
+<p align="center">
+  <img src="../diagrams/assets/oaitmm-code-to-intent-shift.png"
+       alt="Toward AI-Native Software Delivery: The Shift from Code to Intent"
+       width="90%">
+</p>
 What really changes isn’t just speed — it’s the nature of the work:
 
 - Writing code becomes less central  
