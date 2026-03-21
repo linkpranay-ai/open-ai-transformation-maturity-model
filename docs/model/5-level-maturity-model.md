@@ -55,6 +55,37 @@ What really changes isn’t just speed — it’s the nature of the work:
 - Delays shift from building things to validating them  
 - Humans move from doers to supervisors (for better or worse)
 
+## What Enables Progression
+
+The five levels describe the dominant mode of software delivery. But organizations do not move up the model simply by adopting more advanced AI tools.
+
+Progression depends on three things working together:
+
+- **Operating level** — how work is actually performed in practice
+- **Capability** — whether the organization has the supporting systems, workflows, and governance to sustain that mode of operation
+- **Stage gates** — whether operating at that level is safe, controlled, and appropriate for the domain
+
+In other words, higher maturity is not just about using stronger models or more autonomous agents. It requires the underlying capability to support them, and the readiness constraints to make that progression responsible.
+
+<p align="center">
+  <img src="../diagrams/assets/oaitmm-capability-pillars.png"
+       alt="OAITMM Capability Pillars Architecture"
+       width="90%">
+</p>
+
+The capability pillars describe the structural conditions that make higher levels sustainable. The stage gates ensure that organizations do not confuse experimentation with readiness, or autonomy with safe production operation.
+
+The detailed scoring logic, pillar definitions, and gate criteria are described in the assessment framework.
+
+➡️ **[AI Transformation Maturity — Assessment Framework](assessment/README.md)**
+
+The assessment framework includes:
+- Unified scoring methodology
+- Seven capability pillars
+- Stage gates for safe progression
+- Observable level checklists
+- Worked examples for interpretation
+
 ## How This Model Can Be Used
 
 Teams might use this model to:
@@ -65,18 +96,3 @@ Teams might use this model to:
 - compare maturity across groups  
 - have more grounded conversations about AI adoption
 
-    ---
-
-## Assessment Framework
-
-A structured assessment system is available to evaluate organizational maturity using capability pillars, operating patterns, and readiness gates.
-
-➡️ **[AI Transformation Maturity — Assessment Framework](assessment/README.md)**
-
-The assessment framework includes:
-
-- Unified scoring methodology
-- Seven capability pillars
-- Stage gates for safe progression
-- Observable level checklists
-- Worked examples for interpretation
