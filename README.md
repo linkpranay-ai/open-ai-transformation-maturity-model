@@ -80,12 +80,37 @@ OAITMM focuses on **operating-model transformation**, not tool adoption.
 
 ## Who This Is For
 
-- CTOs and VPs of Engineering  
-- Platform and productivity leaders  
-- Transformation teams  
-- Researchers and analysts  
-- Consultants and practitioners  
-- Organizations building AI-native SDLCs  
+This framework is designed for organizations building complex software systems at scale.
+
+It is particularly relevant for:
+
+- CTOs and senior engineering leaders  
+- Platform and DevOps organizations  
+- AI transformation teams  
+- Large R&D organizations  
+- Consulting and advisory firms  
+- Researchers studying AI-native software development  
+
+It is most applicable where software delivery involves significant coordination, governance, reliability, or safety constraints.
+
+The framework may be of limited use for very small projects, individual developers, or purely experimental environments.  
+
+---
+
+## What This Is Not
+
+This framework is not:
+
+- A prediction that all software development will become fully autonomous  
+- A maturity scorecard for ranking organizations  
+- A product or tool evaluation guide  
+- A replacement for engineering judgment or domain expertise  
+- A guarantee of business value from AI adoption  
+
+It does not prescribe a single “correct” end state.  
+Many organizations will operate across multiple levels simultaneously, depending on domain, risk tolerance, and regulatory constraints.
+
+The model is intended as a reference for understanding operating modes and guiding responsible transformation — not as a mandate to maximize autonomy.
 
 ---
 
