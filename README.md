@@ -180,6 +180,6 @@ Future releases will refine the model based on community feedback, case studies,
 https://github.com/linkpranay-ai/open-ai-transformation-maturity-model/releases/tag/v0.1.0
 
 ---
-<!-- Site refresh -->
 > Software engineering is being industrialized.  
 > This framework exists to help organizations navigate that transition safely and effectively.
+<!-- Site refresh -->
