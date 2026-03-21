@@ -170,7 +170,7 @@ See:
 
 ## Status
 
-**Active — early public release (v0.x)**
+Active — early public release (v0.x)
 
 Expect evolution as new evidence and real-world experience accumulate.
 
