@@ -3,6 +3,14 @@
 > **License:** CC BY-SA 4.0  
 > https://creativecommons.org/licenses/by-sa/4.0/
 
+# Level Checklists
+
+<p align="center">
+  <img src="../../../diagrams/assets/oaitmm-self-assessment-ladder.png"
+       alt="OAITMM Self Assessment Ladder"
+       width="70%">
+</p>
+
 These checklists describe the dominant mode of software delivery at each maturity level based on observable practices rather than stated intentions.
 
 👉 [Back to Assessment Framework](README.md)  
