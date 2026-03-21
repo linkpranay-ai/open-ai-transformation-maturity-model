@@ -109,16 +109,24 @@ OAITMM focuses on **operating-model transformation**, not tool adoption.
 
 ---
 
-## How To Use
+## How to Use This Framework
 
-You can apply this framework to:
+This model is intended as a practical reference for engineering leaders, architects, and transformation teams.
 
-- Conduct organizational self-assessments  
-- Facilitate leadership workshops  
-- Plan transformation roadmaps  
-- Benchmark against industry patterns  
-- Guide platform and governance design  
-- Extend for domain-specific use cases  
+Typical uses include:
+
+- Assessing an organization’s current mode of software delivery  
+- Identifying capability gaps that block safe progression  
+- Prioritizing transformation initiatives  
+- Aligning leadership around a shared mental model  
+- Tracking progress over time  
+
+Most organizations operate across multiple levels simultaneously.  
+The goal is not to “reach Level 5” universally, but to deploy higher levels where they are safe, valuable, and appropriate.
+
+For structured evaluation guidance, see the assessment framework:
+
+➡️ **[AI Transformation Maturity — Assessment Framework](docs/model/assessment/README.md)**  
 
 ---
 
