@@ -117,15 +117,11 @@ You can apply this framework to:
 
 Unless otherwise noted:
 
-**Documentation, framework text, diagrams, and assessment content**
+- Documentation, framework text, diagrams, and assessment content are licensed under  
+  👉 [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE)
 
-→ Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
-
-**Code, schemas, scripts, and tooling**
-
-→ Apache License 2.0  
-
-See `LICENSE` and `LICENSE-CODE` for details.
+- Code, schemas, scripts, and tooling are licensed under  
+  👉 [Apache License 2.0](LICENSE-APACHE)
 
 ---
 
@@ -144,17 +140,25 @@ Examples of valuable contributions:
 
 Please read:
 
-👉 `CONTRIBUTING.md`
+👉 [Contribution Guidelines](CONTRIBUTING.md)
 
 ---
+## Code of Conduct
 
+This project is committed to providing a welcoming, respectful, and harassment-free environment for all participants.
+
+All contributors and community members are expected to follow the project's Code of Conduct.
+
+👉 [Code of Conduct](CODE_OF_CONDUCT.md)
+
+---
 ## Governance
 
 This project is maintained by the community with guidance from core maintainers.
 
 See:
 
-👉 `GOVERNANCE.md`
+👉 [Governance Model](GOVERNANCE.md)
 
 ---
 
@@ -162,9 +166,7 @@ See:
 
 If you use this framework in research, consulting, or publications, please cite it.
 
-See:
-
-👉 `CITATION.cff`
+👉 [Citation File (CITATION.cff)](CITATION.cff)
 
 ---
 
@@ -176,8 +178,7 @@ This framework has reached its first stable public milestone and is ready for re
 
 Future releases will refine the model based on community feedback, case studies, and empirical evidence.
 
-👉 See the latest release notes:  
-https://github.com/linkpranay-ai/open-ai-transformation-maturity-model/releases/tag/v0.1.0
+👉 See the latest release notes: [RN](https://github.com/linkpranay-ai/open-ai-transformation-maturity-model/releases/tag/v0.1.0)
 
 ---
 > Software engineering is being industrialized.  
