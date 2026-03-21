@@ -1,40 +1,69 @@
-# Diagrams
+# Diagram Index
 
 > **License:** CC BY-SA 4.0  
 > https://creativecommons.org/licenses/by-sa/4.0/
 
-This section contains visual representations of the Open AI Transformation Maturity Model and its assessment system.
+This directory contains the official visual assets for the Open AI Transformation Maturity Model (O-AITMM).
+
+These diagrams are intended for documentation, presentations, analysis, and discussion of the framework.  
+Where possible, use these canonical versions to ensure consistency.
 
 ---
 
-## 1. 5-Level AI Transformation Maturity Model
+## Core Model
 
-<p align="center">
-  <img src="assets/5-level-maturity-model.png"
-       alt="AI Transformation Maturity Model — 5 Levels"
-       width="900">
-</p>
+### Five-Level Maturity Model
 
-**Source files:**
-- [Publication-quality PNG](assets/5-level-maturity-model.png)
-- [Editable Mermaid source](5-level-maturity-model.md)
+Describes the progression from assistive AI use to autonomous software delivery.
+
+![Five-Level Maturity Model](assets/5-level-maturity-model.png)
 
 ---
 
-## 2. Assessment System Architecture
+## Conceptual Foundations
 
-<p align="center">
-  <img src="assets/assessment-system-architecture.png"
-       alt="OAITMM Assessment System Architecture"
-       width="900">
-</p>
+### Shift from Code to Intent
 
-**Source file:**
-- [Editable Mermaid source](assessment-system-architecture.md)
+Illustrates the transformation in the primary artifact of software development—from human-written code to intent-driven and autonomous systems.
 
-This diagram shows how the framework integrates:
+![Code to Intent Shift](assets/oaitmm-code-to-intent-shift.png)
 
-- Capability Pillars (what the organization can do)
-- Maturity Levels (how work is performed)
-- Stage Gates (safety and readiness constraints)
-- Unified Scoring Logic (final maturity determination)
+---
+
+## Capability Structure
+
+### Capability Pillars Architecture
+
+Shows the structural capabilities required to sustain higher maturity levels.
+
+![Capability Pillars](assets/oaitmm-capability-pillars.png)
+
+---
+
+## Assessment System
+
+### Assessment Architecture
+
+Explains how capability evidence, observed operating mode, and readiness constraints combine to determine effective maturity.
+
+![Assessment Architecture](assets/assessment-system-architecture.png)
+
+---
+
+## Practical Tools
+
+### Self-Assessment Ladder
+
+Provides a quick visual aid for estimating an organization’s current maturity level.
+
+![Self Assessment Ladder](assets/oaitmm-self-assessment-ladder.png)
+
+---
+
+## Identity Assets
+
+### Framework Banner
+
+Institutional banner used for repository headers and presentations.
+
+![Framework Banner](assets/oaitmm-banner.png)
