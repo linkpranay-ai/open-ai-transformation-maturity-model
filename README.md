@@ -170,9 +170,14 @@ See:
 
 ## Status
 
-Active — early public release (v0.x)
+**Active — Initial public release (v0.1.0)**
 
-Expect evolution as new evidence and real-world experience accumulate.
+This framework has reached its first stable public milestone and is ready for real-world evaluation and use.
+
+Future releases will refine the model based on community feedback, case studies, and empirical evidence.
+
+👉 See the latest release notes:  
+https://github.com/linkpranay-ai/open-ai-transformation-maturity-model/releases/tag/v0.1.0
 
 ---
 <!-- Site refresh -->
