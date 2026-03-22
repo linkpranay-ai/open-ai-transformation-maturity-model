@@ -1,3 +1,9 @@
+<a id="top"></a>
+
+[Home](../README.md) · [Model](model/5-level-maturity-model.md) · [Assessment Hub](model/assessment/README.md) · [Roadmap](ROADMAP.md) · [References](REFERENCES.md)
+
+---
+
 # Getting Started
 
 If you’ve just landed here and aren’t sure where to begin, this page is meant to point you in roughly the right direction. You don’t need to read everything in order. Most people don’t.
@@ -60,3 +66,7 @@ If you want to help improve the project:
 - Read **CONTRIBUTING.md** before submitting anything  
 
 If you’re unsure where to start, opening a discussion is perfectly fine.
+
+---
+
+[↑ Back to top](#top) · [Home](../README.md)
