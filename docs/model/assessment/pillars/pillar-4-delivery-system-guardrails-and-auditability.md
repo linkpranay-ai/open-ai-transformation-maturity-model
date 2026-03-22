@@ -1,3 +1,8 @@
+<a id="top"></a>
+
+[Home](../../../../README.md) · [Getting Started](../../../GETTING_STARTED.md) · [Model](../../5-level-maturity-model.md) · [Assessment Hub](../README.md) · [Roadmap](../../../ROADMAP.md) · [References](../../../REFERENCES.md)
+
+---
 # Pillar 4 — Delivery System Guardrails & Auditability
 
 > **License:** CC BY-SA 4.0  
@@ -136,3 +141,7 @@ Delivery operates within robust, continuously monitored constraints with reliabl
 - **Level 3 — Managed Agents:** Critical  
 - **Level 4 — Spec-Driven Development:** Foundational  
 - **Level 5 — Autonomous Delivery:** Essential
+
+---
+
+[↑ Back to top](#top) · [Home](../../../../README.md)
