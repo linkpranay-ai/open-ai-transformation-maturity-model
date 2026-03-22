@@ -1,3 +1,8 @@
+<a id="top"></a>
+
+[Home](../../../README.md) · [Getting Started](../../GETTING_STARTED.md) · [Model](../5-level-maturity-model.md) · [Assessment Hub](README.md) · [Roadmap](../../ROADMAP.md) · [References](../../REFERENCES.md)
+
+---
 # Simulated Assessment Examples
 
 > **License:** CC BY-SA 4.0  
@@ -446,3 +451,7 @@ When using this framework, always ask:
 
 If those answers point in different directions, the organization is not “confusing.”  
 It is **unevenly transformed**, and the framework is working as intended.
+
+---
+
+[↑ Back to top](#top) · [Home](../../../README.md)
