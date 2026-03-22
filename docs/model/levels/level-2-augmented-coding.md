@@ -1,3 +1,8 @@
+<a id="top"></a>
+
+[Home](../../../README.md) · [Getting Started](../../GETTING_STARTED.md) · [Model](../5-level-maturity-model.md) · [Assessment Hub](../assessment/README.md) · [Roadmap](../../ROADMAP.md) · [References](../../REFERENCES.md)
+
+---
 # Level 2 — Augmented Coding
 
 > **License:** CC BY-SA 4.0  
@@ -70,3 +75,7 @@ Moving beyond this stage typically requires:
 - Improving automated testing and validation infrastructure
 - Redesigning workflows to manage AI-raised contributions
 - Recognizing that verification, not generation, is the scaling constraint
+
+---
+
+[↑ Back to top](#top) · [Home](../../../README.md)
