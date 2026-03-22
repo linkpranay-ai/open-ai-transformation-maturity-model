@@ -2,7 +2,7 @@
 
 This is a rough sketch of where the Open AI Transformation Maturity Model project might head. It’s not a fixed plan — more like “best guess right now.” As people start using the model, we’ll probably discover blind spots and change priorities.
 
-Current status: early public release (v0.x). Useful, but definitely not finished.
+Current status: Initial public release (v0.1.0). Useful, but definitely not finished.
 
 ## Near-Term Priorities
 
