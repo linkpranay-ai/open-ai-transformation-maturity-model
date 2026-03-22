@@ -1,3 +1,8 @@
+<a id="top"></a>
+
+[Home](../../README.md) · [Getting Started](../GETTING_STARTED.md) · [Model](../model/5-level-maturity-model.md) · [Assessment Hub](../model/assessment/README.md) · [Roadmap](../ROADMAP.md) · [References](../REFERENCES.md)
+
+---
 # 5-Level AI Transformation Maturity Model
 
 > **License:** CC BY-SA 4.0  
@@ -54,3 +59,7 @@ L1 --> L2 --> L3 --> L4 --> L5
 %% Visual styling
 classDef level fill:#f8f9fa,stroke:#4b5563,stroke-width:1px,color:#111827,font-weight:bold;
 classDef note fill:none,stroke:none,color:#111827;
+
+---
+
+[↑ Back to top](#top) · [Home](../../README.md)
