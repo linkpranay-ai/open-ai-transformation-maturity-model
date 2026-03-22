@@ -1,3 +1,8 @@
+<a id="top"></a>
+
+[Home](../../../../README.md) · [Getting Started](../../../GETTING_STARTED.md) · [Model](../../5-level-maturity-model.md) · [Assessment Hub](../README.md) · [Roadmap](../../../ROADMAP.md) · [References](../../../REFERENCES.md)
+
+---
 # Pillar 3 — Agent Operating Model & Autonomy Control
 
 > **License:** CC BY-SA 4.0  
@@ -135,3 +140,7 @@ Autonomy is systematically managed, monitored, and aligned with organizational r
 - **Level 3 — Managed Agents:** Foundational  
 - **Level 4 — Spec-Driven Development:** Critical  
 - **Level 5 — Autonomous Delivery:** Essential
+
+---
+
+[↑ Back to top](#top) · [Home](../../../../README.md)
