@@ -1,3 +1,8 @@
+<a id="top"></a>
+
+[Home](../../README.md) · [Getting Started](../GETTING_STARTED.md) · [Model](5-level-maturity-model.md) · [Assessment Hub](assessment/README.md) · [Roadmap](../ROADMAP.md) · [References](../REFERENCES.md)
+
+---
 # Glossary
 
 > **License:** CC BY-SA 4.0  
@@ -32,3 +37,7 @@ How feasible it is to pull meaningful structure out of an existing legacy system
 
 ## Evaluation Bottleneck
 A situation where generating solutions becomes fast and cheap, but proving they actually work becomes the slow part.
+
+---
+
+[↑ Back to top](#top) · [Home](../../README.md)
