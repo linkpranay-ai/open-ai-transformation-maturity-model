@@ -1,3 +1,8 @@
+<a id="top"></a>
+
+[Home](../../../README.md) · [Getting Started](../../GETTING_STARTED.md) · [Model](../5-level-maturity-model.md) · [Assessment Hub](../assessment/README.md) · [Roadmap](../../ROADMAP.md) · [References](../../REFERENCES.md)
+
+---
 # Level 3 — Managed Agents
 
 > **License:** CC BY-SA 4.0  
@@ -79,3 +84,7 @@ That often involves:
 - Accepting that unclear requirements become the main blocker  
 
 At this stage, bad specs hurt more than bad code.
+
+---
+
+[↑ Back to top](#top) · [Home](../../../README.md)
