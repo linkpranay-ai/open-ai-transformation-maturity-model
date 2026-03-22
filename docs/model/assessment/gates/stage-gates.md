@@ -1,3 +1,8 @@
+<a id="top"></a>
+
+[Home](../../../../README.md) · [Getting Started](../../../GETTING_STARTED.md) · [Model](../../5-level-maturity-model.md) · [Assessment Hub](../README.md) · [Roadmap](../../../ROADMAP.md) · [References](../../../REFERENCES.md)
+
+---
 # Stage Gates — Readiness Constraints for Advancement
 
 > **License:** CC BY-SA 4.0  
@@ -158,3 +163,7 @@ Stage gates should be evaluated through evidence-based review involving:
 - operations teams
 
 Gates represent organizational readiness, not technical ambition.
+
+---
+
+[↑ Back to top](#top) · [Home](../../../../README.md)
