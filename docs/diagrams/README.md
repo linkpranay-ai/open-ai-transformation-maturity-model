@@ -1,3 +1,8 @@
+<a id="top"></a>
+
+[Home](../../README.md) · [Getting Started](../GETTING_STARTED.md) · [Model](../model/5-level-maturity-model.md) · [Assessment Hub](../model/assessment/README.md) · [Roadmap](../ROADMAP.md) · [References](../REFERENCES.md)
+
+---
 # Diagram Index
 
 > **License:** CC BY-SA 4.0  
@@ -67,3 +72,7 @@ Provides a quick visual aid for estimating an organization’s current maturity 
 Institutional banner used for repository headers and presentations.
 
 ![Framework Banner](assets/oaitmm-banner.png)
+
+---
+
+[↑ Back to top](#top) · [Home](../../README.md)
