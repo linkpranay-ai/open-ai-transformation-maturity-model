@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-[Getting Started](docs/getting-started.md) · [Model](docs/model/5-level-maturity-model.md) · [Assessment Hub](docs/model/assessment/README.md) · [Roadmap](docs/roadmap.md) · [References](docs/REFERENCES.md)
+[Getting Started](docs/GETTING_STARTED.md) · [Model](docs/model/5-level-maturity-model.md) · [Assessment Hub](docs/model/assessment/README.md) · [Roadmap](docs/ROADMAP.md) · [References](docs/REFERENCES.md)
 
 ---
 
