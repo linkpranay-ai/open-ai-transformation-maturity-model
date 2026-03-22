@@ -92,4 +92,20 @@ Relevant standards and guidance influencing responsible AI deployment.
 ---
 
 This framework does not claim endorsement by any organization listed above.  
-All interpretations and synthesis are the responsibility of the author(s).
+All interpretations and syntheses are the responsibility of the author(s).
+
+---
+
+# Acknowledgements
+
+This framework benefited from discussions with engineering leaders, researchers, and practitioners across industry and academia.
+
+Feedback from early readers and reviewers helped clarify concepts and improve the structure of the model.
+
+The author(s) also acknowledge the broader open-source and research communities whose work on software engineering, AI systems, and organizational transformation informed this synthesis.
+
+Any errors, interpretations, or omissions remain the responsibility of the author(s).
+
+---
+
+This project is independent and does not represent the views of any employer or organization that the author(s)/ contributors are associated with in the present or the past.
