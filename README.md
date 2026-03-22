@@ -1,3 +1,9 @@
+<a id="top"></a>
+
+[Getting Started](docs/getting-started.md) · [Model](docs/model/5-level-maturity-model.md) · [Assessment Hub](docs/model/assessment/README.md) · [Roadmap](docs/roadmap.md) · [References](docs/REFERENCES.md)
+
+---
+
 <p align="center">
   <img src="docs/diagrams/assets/oaitmm-banner.png" alt="Open AI Transformation Maturity Model banner" width="100%">
 </p>
@@ -227,4 +233,9 @@ Future releases will refine the model based on community feedback, case studies,
 ---
 > Software engineering is being industrialized.  
 > This framework exists to help organizations navigate that transition safely and effectively.
+
+---
+
+[↑ Back to top](#top)
+
 <!-- Site refresh -->
