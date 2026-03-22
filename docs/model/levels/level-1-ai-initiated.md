@@ -1,3 +1,8 @@
+<a id="top"></a>
+
+[Home](../../../README.md) · [Getting Started](../../GETTING_STARTED.md) · [Model](../5-level-maturity-model.md) · [Assessment Hub](../assessment/README.md) · [Roadmap](../../ROADMAP.md) · [References](../../REFERENCES.md)
+
+---
 # Level 1 — AI Initiated  
 
 > **License:** CC BY-SA 4.0  
@@ -73,3 +78,7 @@ To move past this phase, organizations usually need to get intentional:
 - Realize the payoff comes from changing workflows, not just installing tools  
 
 Otherwise you just stay in the “helpful autocomplete” zone forever.
+
+---
+
+[↑ Back to top](#top) · [Home](../../../README.md)
