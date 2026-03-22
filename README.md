@@ -42,6 +42,8 @@ This model describes how engineering organizations transition:
 
 👉 **[5-Level Maturity Model](docs/model/5-level-maturity-model.md)**
 
+> The model and the assessment framework synthesize insights from contemporary research and industry practice. See **[References](docs/references.md)**.
+
 ---
 
 ## Assessment System Architecture
