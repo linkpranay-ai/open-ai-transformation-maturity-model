@@ -1,3 +1,8 @@
+<a id="top"></a>
+
+[Home](../../../../README.md) · [Getting Started](../../../GETTING_STARTED.md) · [Model](../../5-level-maturity-model.md) · [Assessment Hub](../README.md) · [Roadmap](../../../ROADMAP.md) · [References](../../../REFERENCES.md)
+
+---
 # Maturity Level Checklists — Observable Operating Patterns
 
 > **License:** CC BY-SA 4.0  
@@ -143,3 +148,7 @@ Levels describe how work happens, but sustainable operation at a given level req
 - Gate conditions to ensure safety
 
 Higher levels without supporting capability or safeguards represent elevated risk.
+
+---
+
+[↑ Back to top](#top) · [Home](../../../../README.md)
