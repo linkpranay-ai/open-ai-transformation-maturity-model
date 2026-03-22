@@ -1,3 +1,5 @@
+# References and Acknowledgements
+---
 # References
 
 This framework synthesizes insights from research literature, industry reports, engineering practice, and publicly documented case studies.  
