@@ -1,3 +1,8 @@
+<a id="top"></a>
+
+[Home](../README.md) · [Getting Started](GETTING_STARTED.md) · [Model](model/5-level-maturity-model.md) · [Assessment Hub](model/assessment/README.md) · [References](REFERENCES.md)
+
+---
 # Roadmap
 
 This is a rough sketch of where the Open AI Transformation Maturity Model project might head. It’s not a fixed plan — more like “best guess right now.” As people start using the model, we’ll probably discover blind spots and change priorities.
@@ -69,3 +74,7 @@ Input is especially valuable from people with hands-on experience, including:
 - governance for autonomous systems  
 
 Practical lessons — especially the messy ones — are welcome.
+
+---
+
+[↑ Back to top](#top) · [Home](../README.md)
