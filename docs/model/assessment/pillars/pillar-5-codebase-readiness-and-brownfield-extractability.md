@@ -1,3 +1,8 @@
+<a id="top"></a>
+
+[Home](../../../../README.md) · [Getting Started](../../../GETTING_STARTED.md) · [Model](../../5-level-maturity-model.md) · [Assessment Hub](../README.md) · [Roadmap](../../../ROADMAP.md) · [References](../../../REFERENCES.md)
+
+---
 # Pillar 5 — Codebase Readiness & Brownfield Extractability
 
 > **License:** CC BY-SA 4.0  
@@ -136,3 +141,7 @@ Systems are highly transparent, analyzable, and amenable to automated reasoning 
 - **Level 3 — Managed Agents:** Critical for safe modification  
 - **Level 4 — Spec-Driven Development:** Essential for brownfield transformation  
 - **Level 5 — Autonomous Delivery:** Foundational for legacy integration
+
+---
+
+[↑ Back to top](#top) · [Home](../../../../README.md)
