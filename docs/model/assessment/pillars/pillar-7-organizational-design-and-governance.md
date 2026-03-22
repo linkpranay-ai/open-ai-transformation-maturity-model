@@ -1,3 +1,8 @@
+<a id="top"></a>
+
+[Home](../../../../README.md) · [Getting Started](../../../GETTING_STARTED.md) · [Model](../../5-level-maturity-model.md) · [Assessment Hub](../README.md) · [Roadmap](../../../ROADMAP.md) · [References](../../../REFERENCES.md)
+
+---
 # Pillar 7 — Organizational Design & Governance
 
 > **License:** CC BY-SA 4.0  
@@ -139,3 +144,7 @@ Structure, incentives, and governance are fully aligned with autonomous and high
 - **Level 3 — Managed Agents:** Critical for scaling  
 - **Level 4 — Spec-Driven Development:** Foundational  
 - **Level 5 — Autonomous Delivery:** Essential
+
+---
+
+[↑ Back to top](#top) · [Home](../../../../README.md)
