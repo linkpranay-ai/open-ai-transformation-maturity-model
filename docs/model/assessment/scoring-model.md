@@ -1,3 +1,8 @@
+<a id="top"></a>
+
+[Home](../../../README.md) · [Getting Started](../../GETTING_STARTED.md) · [Model](../5-level-maturity-model.md) · [Assessment Hub](README.md) · [Roadmap](../../ROADMAP.md) · [References](../../REFERENCES.md)
+
+---
 # Unified Scoring System
 
 > **License:** CC BY-SA 4.0  
@@ -150,3 +155,7 @@ This framework:
 - Emphasizes safe autonomy over maximum automation  
 
 It is intended as a decision-support tool for transformation planning.
+
+---
+
+[↑ Back to top](#top) · [Home](../../../README.md)
